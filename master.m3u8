@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976017~acl=/hls-p/ingest_7052_*/*~hmac=553915943c71cd0e6af64827699ff5308b720f5dccc1f526cddcbc350579ddcc/hls-p/ingest_7052_720p/index.m3u8
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976364~acl=/hls-p/ingest_7052_*/*~hmac=bb35225a357756dcc186e9d8840e8f9779fed7e69dd129829b0b041504614617/hls-p/ingest_7052_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976017~acl=/hls-p/ingest_7052_*/*~hmac=553915943c71cd0e6af64827699ff5308b720f5dccc1f526cddcbc350579ddcc/hls-p/ingest_7052_480p/index.m3u8
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976364~acl=/hls-p/ingest_7052_*/*~hmac=bb35225a357756dcc186e9d8840e8f9779fed7e69dd129829b0b041504614617/hls-p/ingest_7052_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=938000,AVERAGE-BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976017~acl=/hls-p/ingest_7052_*/*~hmac=553915943c71cd0e6af64827699ff5308b720f5dccc1f526cddcbc350579ddcc/hls-p/ingest_7052_360p/index.m3u8
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976364~acl=/hls-p/ingest_7052_*/*~hmac=bb35225a357756dcc186e9d8840e8f9779fed7e69dd129829b0b041504614617/hls-p/ingest_7052_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=563000,AVERAGE-BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976017~acl=/hls-p/ingest_7052_*/*~hmac=553915943c71cd0e6af64827699ff5308b720f5dccc1f526cddcbc350579ddcc/hls-p/ingest_7052_240p/index.m3u8
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1702976364~acl=/hls-p/ingest_7052_*/*~hmac=bb35225a357756dcc186e9d8840e8f9779fed7e69dd129829b0b041504614617/hls-p/ingest_7052_240p/index.m3u8
